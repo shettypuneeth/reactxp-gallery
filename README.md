@@ -1,6 +1,9 @@
-# RXP
+# React XP gallery
 
-This app works on React Native (iOS, Android) and web.
+A simple gallery app built using ReactXP
+
+## Demo
+![](./assets/reactxp.gif)
 
 The commands in the instructions below assume you are in the root of this repo.
 
