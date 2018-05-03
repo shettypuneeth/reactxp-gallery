@@ -7,10 +7,6 @@ The commands in the instructions below assume you are in the root of this repo.
 ### Initial Setup
 
 - Run `npm install`. This fetches the dependencies.
-- Open `node_modules/reactxp/dist/native-common/App.js` and replace 
-`RN.AppRegistry.registerComponent('RXApp',`
-with
-`RN.AppRegistry.registerComponent('reactXPTest',`
 
 ### Building for Web
 
